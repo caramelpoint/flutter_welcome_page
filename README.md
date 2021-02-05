@@ -1,8 +1,6 @@
 # Flutter Demo - Welcome Page App
 
-Check the live coding sesion here.
-
-https://www.youtube.com/watch?v=sEfif8f11YQ&t=111s
+Check the live coding sesion [here](https://www.youtube.com/watch?v=sEfif8f11YQ&t=111s).
 
 ## Getting Started
 
